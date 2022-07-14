@@ -1,0 +1,2 @@
+# AuxiliaryFunctions
+Various useful functions
